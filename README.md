@@ -1,6 +1,9 @@
 
 
 # Rental Trend Predictor
+## Author
+
+Shailusha T
 
 This project generates a synthetic dataset of monthly rental prices for five major US cities and uses linear regression to predict the next month's rent. It also visualizes rent trends using Seaborn and Matplotlib.
 
@@ -22,7 +25,7 @@ This project generates a synthetic dataset of monthly rental prices for five maj
 
 1. Clone the repo:
 
-git clone https://github.com/yourusername/rental-trend-predictor.git
+git clone https://github.com/Shailusha04/rent-prediction.git
 
 2. Install dependencies:
 
@@ -43,11 +46,7 @@ python rental_predictor.py
 
 This project runs locally via Python. No deployment necessary.
 
-## Author
 
-Shailusha T
-
----
 
 ## How It Works
 
